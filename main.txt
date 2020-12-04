@@ -1,2 +1,2 @@
 Afficher hello world !
-Saisir mail /password.
+Saisir user /password.
